@@ -1,0 +1,22 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokaty1818795/typescript-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokaty1818795/typescript-course/issues"
+  },
+  "homepage": "https://github.com/mokaty1818795/typescript-course#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
